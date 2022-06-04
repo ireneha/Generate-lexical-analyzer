@@ -1,4 +1,3 @@
-//Ngoc Ha nh0322
 //Token class definition for MicroR
 
 public class Token{
